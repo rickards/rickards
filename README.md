@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+## Stats
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rickards&layout=compact)
+![Karanalpe Status](https://github-readme-stats.vercel.app/api?username=rickards&show_icons=true)
+
 <!--
 **rickards/rickards** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
