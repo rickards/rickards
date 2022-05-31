@@ -1,6 +1,12 @@
 ### Hi there 👋
 
 ## Stats
+
+![Henrique-contributions](https://activity-graph.herokuapp.com/graph?username=rickards&theme=merko)
+<div align="center">
+  <a href="https://github.com/rickards">
+</div>
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rickards&layout=compact)
 ![Karanalpe Status](https://github-readme-stats.vercel.app/api?username=rickards&show_icons=true)
 
